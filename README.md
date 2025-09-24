@@ -57,7 +57,7 @@
    C:\Program Files\Dev-Cpp\include
    ```
 
-Download the library and header file here: [PScanf Release v2.0](https://github.com/DevD4v3/pscanf.h/releases/tag/v2.0)
+Download the library and header file here: [PScanf Release v2.0](https://github.com/DevD4v3/P-Scanf/releases/tag/v2.0)
 
 ---
 
